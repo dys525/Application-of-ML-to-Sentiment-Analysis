@@ -1,1 +1,1 @@
-# Application-of-ML-to-Sentiment-Analysis
+# Application-of-ML-in-Sentiment-Analysis
